@@ -1,4 +1,4 @@
-# YLL_UD_P4_DataVisualizationTableau
+# YLL-Udacity-Project4-DataVisualization-Tableau
 TPUD Business Analysis_Data Visualization with Tableau Project 4
 
 ## Key Objective of Project 4:

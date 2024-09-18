@@ -1,11 +1,16 @@
 # YLL-Udacity-Project4-DataVisualization-Tableau
 TPUD Business Analysis_Data Visualization with Tableau Project 4
 
+<p>Feel free to click this link to review my work on: <a href="https://public.tableau.com/app/profile/yvonne.lip/viz/UdacityProject4_FlightDelayedCancellations_LimPinPinv1_0/Story)">2015 Flight Delays and Cancellations</a>.
+Alternatively, you can click the file that I have attached to the repositories.</p>
+<br>
+
 ## Key Objective of Project 4:
 Create visualizations to reveal insights from a data set that tell a story or highlight patterns in the data set. Project should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication. Choose from the 3 different data sets:
 1. Flight Delays and Cancellations
 2. US Census Demographic Data
 3. YouTube data from the US
+<br>
 
 ## Project Requirement:
 Criteria: 
@@ -20,6 +25,7 @@ Completeness:
 1. Provide 3 visualizations which link to dashboards on Tableau Public.
 2. Each visual has a written response from the insights gained.
 3. Across the 3 visualizations, 3 different types of charts are used.
+<br>
 
 ## 📊 Kaggle Dataset:
 <img src="https://storage.googleapis.com/kaggle-datasets-images/854/1560/127b0b8c8b15b9eaa8a0c3f3e49ced0d/dataset-thumbnail.jpg">
